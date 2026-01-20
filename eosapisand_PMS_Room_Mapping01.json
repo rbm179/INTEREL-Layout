@@ -1,0 +1,432 @@
+{
+    "mapping": [
+        {
+            "pmsRoomNumber": "102",
+            "location": "eosapisand/001/001001/001102"
+        },
+        {
+            "pmsRoomNumber": "103",
+            "location": "eosapisand/001/001001/001103"
+        },
+        {
+            "pmsRoomNumber": "104",
+            "location": "eosapisand/001/001001/001104"
+        },
+        {
+            "pmsRoomNumber": "105",
+            "location": "eosapisand/001/001001/001105"
+        },
+        {
+            "pmsRoomNumber": "106",
+            "location": "eosapisand/001/001001/001106"
+        },
+        {
+            "pmsRoomNumber": "107",
+            "location": "eosapisand/001/001001/001107"
+        },
+        {
+            "pmsRoomNumber": "108",
+            "location": "eosapisand/001/001001/001108"
+        },
+        {
+            "pmsRoomNumber": "109",
+            "location": "eosapisand/001/001001/001109"
+        },
+        {
+            "pmsRoomNumber": "110",
+            "location": "eosapisand/001/001001/001110"
+        },
+        {
+            "pmsRoomNumber": "111",
+            "location": "eosapisand/001/001001/001111"
+        },
+        {
+            "pmsRoomNumber": "0101",
+            "location": "eosapisand/001/001001/001101"
+        },
+        {
+            "pmsRoomNumber": "1102",
+            "location": "eosapisand/001/001001/0011102"
+        },
+        {
+            "pmsRoomNumber": "201",
+            "location": "eosapisand/001/001002/001201"
+        },
+        {
+            "pmsRoomNumber": "202",
+            "location": "eosapisand/001/001002/001202"
+        },
+        {
+            "pmsRoomNumber": "203",
+            "location": "eosapisand/001/001002/001203"
+        },
+        {
+            "pmsRoomNumber": "204",
+            "location": "eosapisand/001/001002/001204"
+        },
+        {
+            "pmsRoomNumber": "205",
+            "location": "eosapisand/001/001002/001205"
+        },
+        {
+            "pmsRoomNumber": "206",
+            "location": "eosapisand/001/001002/001206"
+        },
+        {
+            "pmsRoomNumber": "207",
+            "location": "eosapisand/001/001002/001207"
+        },
+        {
+            "pmsRoomNumber": "208",
+            "location": "eosapisand/001/001002/001208"
+        },
+        {
+            "pmsRoomNumber": "209",
+            "location": "eosapisand/001/001002/001209"
+        },
+        {
+            "pmsRoomNumber": "210",
+            "location": "eosapisand/001/001002/001210"
+        },
+        {
+            "pmsRoomNumber": "211",
+            "location": "eosapisand/001/001002/001211"
+        },
+        {
+            "pmsRoomNumber": "212",
+            "location": "eosapisand/001/001002/001212"
+        },
+        {
+            "pmsRoomNumber": "301",
+            "location": "eosapisand/001/001003/001301"
+        },
+        {
+            "pmsRoomNumber": "302",
+            "location": "eosapisand/001/001003/001302"
+        },
+        {
+            "pmsRoomNumber": "303",
+            "location": "eosapisand/001/001003/001303"
+        },
+        {
+            "pmsRoomNumber": "304",
+            "location": "eosapisand/001/001003/001304"
+        },
+        {
+            "pmsRoomNumber": "305",
+            "location": "eosapisand/001/001003/001305"
+        },
+        {
+            "pmsRoomNumber": "306",
+            "location": "eosapisand/001/001003/001306"
+        },
+        {
+            "pmsRoomNumber": "307",
+            "location": "eosapisand/001/001003/001307"
+        },
+        {
+            "pmsRoomNumber": "308",
+            "location": "eosapisand/001/001003/001308"
+        },
+        {
+            "pmsRoomNumber": "309",
+            "location": "eosapisand/001/001003/001309"
+        },
+        {
+            "pmsRoomNumber": "310",
+            "location": "eosapisand/001/001003/001310"
+        },
+        {
+            "pmsRoomNumber": "401",
+            "location": "eosapisand/001/001004/001401"
+        },
+        {
+            "pmsRoomNumber": "402",
+            "location": "eosapisand/001/001004/001402"
+        },
+        {
+            "pmsRoomNumber": "403",
+            "location": "eosapisand/001/001004/001403"
+        },
+        {
+            "pmsRoomNumber": "404",
+            "location": "eosapisand/001/001004/001404"
+        },
+        {
+            "pmsRoomNumber": "405",
+            "location": "eosapisand/001/001004/001405"
+        },
+        {
+            "pmsRoomNumber": "406",
+            "location": "eosapisand/001/001004/001406"
+        },
+        {
+            "pmsRoomNumber": "407",
+            "location": "eosapisand/001/001004/001407"
+        },
+        {
+            "pmsRoomNumber": "408",
+            "location": "eosapisand/001/001004/001408"
+        },
+        {
+            "pmsRoomNumber": "409",
+            "location": "eosapisand/001/001004/001409"
+        },
+        {
+            "pmsRoomNumber": "410",
+            "location": "eosapisand/001/001004/001410"
+        },
+        {
+            "pmsRoomNumber": "501",
+            "location": "eosapisand/001/001005/001501"
+        },
+        {
+            "pmsRoomNumber": "502",
+            "location": "eosapisand/001/001005/001502"
+        },
+        {
+            "pmsRoomNumber": "503",
+            "location": "eosapisand/001/001005/001503"
+        },
+        {
+            "pmsRoomNumber": "504",
+            "location": "eosapisand/001/001005/001504"
+        },
+        {
+            "pmsRoomNumber": "505",
+            "location": "eosapisand/001/001005/001505"
+        },
+        {
+            "pmsRoomNumber": "506",
+            "location": "eosapisand/001/001005/001506"
+        },
+        {
+            "pmsRoomNumber": "507",
+            "location": "eosapisand/001/001005/001507"
+        },
+        {
+            "pmsRoomNumber": "508",
+            "location": "eosapisand/001/001005/001508"
+        },
+        {
+            "pmsRoomNumber": "509",
+            "location": "eosapisand/001/001005/001509"
+        },
+        {
+            "pmsRoomNumber": "510",
+            "location": "eosapisand/001/001005/001510"
+        },
+        {
+            "pmsRoomNumber": "601",
+            "location": "eosapisand/001/001006/001601"
+        },
+        {
+            "pmsRoomNumber": "602",
+            "location": "eosapisand/001/001006/001602"
+        },
+        {
+            "pmsRoomNumber": "603",
+            "location": "eosapisand/001/001006/001603"
+        },
+        {
+            "pmsRoomNumber": "604",
+            "location": "eosapisand/001/001006/001604"
+        },
+        {
+            "pmsRoomNumber": "605",
+            "location": "eosapisand/001/001006/001605"
+        },
+        {
+            "pmsRoomNumber": "606",
+            "location": "eosapisand/001/001006/001606"
+        },
+        {
+            "pmsRoomNumber": "607",
+            "location": "eosapisand/001/001006/001607"
+        },
+        {
+            "pmsRoomNumber": "608",
+            "location": "eosapisand/001/001006/001608"
+        },
+        {
+            "pmsRoomNumber": "609",
+            "location": "eosapisand/001/001006/001609"
+        },
+        {
+            "pmsRoomNumber": "610",
+            "location": "eosapisand/001/001006/001610"
+        },
+        {
+            "pmsRoomNumber": "701",
+            "location": "eosapisand/001/001007/001701"
+        },
+        {
+            "pmsRoomNumber": "702",
+            "location": "eosapisand/001/001007/001702"
+        },
+        {
+            "pmsRoomNumber": "703",
+            "location": "eosapisand/001/001007/001703"
+        },
+        {
+            "pmsRoomNumber": "704",
+            "location": "eosapisand/001/001007/001704"
+        },
+        {
+            "pmsRoomNumber": "705",
+            "location": "eosapisand/001/001007/001705"
+        },
+        {
+            "pmsRoomNumber": "706",
+            "location": "eosapisand/001/001007/001706"
+        },
+        {
+            "pmsRoomNumber": "707",
+            "location": "eosapisand/001/001007/001707"
+        },
+        {
+            "pmsRoomNumber": "708",
+            "location": "eosapisand/001/001007/001708"
+        },
+        {
+            "pmsRoomNumber": "709",
+            "location": "eosapisand/001/001007/001709"
+        },
+        {
+            "pmsRoomNumber": "710",
+            "location": "eosapisand/001/001007/001710"
+        },
+        {
+            "pmsRoomNumber": "801",
+            "location": "eosapisand/001/001008/001801"
+        },
+        {
+            "pmsRoomNumber": "802",
+            "location": "eosapisand/001/001008/001802"
+        },
+        {
+            "pmsRoomNumber": "803",
+            "location": "eosapisand/001/001008/001803"
+        },
+        {
+            "pmsRoomNumber": "804",
+            "location": "eosapisand/001/001008/001804"
+        },
+        {
+            "pmsRoomNumber": "805",
+            "location": "eosapisand/001/001008/001805"
+        },
+        {
+            "pmsRoomNumber": "806",
+            "location": "eosapisand/001/001008/001806"
+        },
+        {
+            "pmsRoomNumber": "807",
+            "location": "eosapisand/001/001008/001807"
+        },
+        {
+            "pmsRoomNumber": "808",
+            "location": "eosapisand/001/001008/001808"
+        },
+        {
+            "pmsRoomNumber": "809",
+            "location": "eosapisand/001/001008/001809"
+        },
+        {
+            "pmsRoomNumber": "810",
+            "location": "eosapisand/001/001008/001810"
+        },
+        {
+            "pmsRoomNumber": "901",
+            "location": "eosapisand/001/001009/001901"
+        },
+        {
+            "pmsRoomNumber": "902",
+            "location": "eosapisand/001/001009/001902"
+        },
+        {
+            "pmsRoomNumber": "903",
+            "location": "eosapisand/001/001009/001903"
+        },
+        {
+            "pmsRoomNumber": "904",
+            "location": "eosapisand/001/001009/001904"
+        },
+        {
+            "pmsRoomNumber": "905",
+            "location": "eosapisand/001/001009/001905"
+        },
+        {
+            "pmsRoomNumber": "906",
+            "location": "eosapisand/001/001009/001906"
+        },
+        {
+            "pmsRoomNumber": "907",
+            "location": "eosapisand/001/001009/001907"
+        },
+        {
+            "pmsRoomNumber": "908",
+            "location": "eosapisand/001/001009/001908"
+        },
+        {
+            "pmsRoomNumber": "909",
+            "location": "eosapisand/001/001009/001909"
+        },
+        {
+            "pmsRoomNumber": "910",
+            "location": "eosapisand/001/001009/001910"
+        },
+        {
+            "pmsRoomNumber": "1003",
+            "location": "eosapisand/001/001010/0011003"
+        },
+        {
+            "pmsRoomNumber": "1004",
+            "location": "eosapisand/001/001010/0011004"
+        },
+        {
+            "pmsRoomNumber": "1005",
+            "location": "eosapisand/001/001010/0011005"
+        },
+        {
+            "pmsRoomNumber": "1006",
+            "location": "eosapisand/001/001010/0011006"
+        },
+        {
+            "pmsRoomNumber": "1007",
+            "location": "eosapisand/001/001010/0011007"
+        },
+        {
+            "pmsRoomNumber": "1008",
+            "location": "eosapisand/001/001010/0011008"
+        },
+        {
+            "pmsRoomNumber": "1009",
+            "location": "eosapisand/001/001010/0011009"
+        },
+        {
+            "pmsRoomNumber": "1010",
+            "location": "eosapisand/001/001010/0011010"
+        },
+        {
+            "pmsRoomNumber": "1001",
+            "location": "eosapisand/001/001010/0011001"
+        },
+        {
+            "pmsRoomNumber": "1002",
+            "location": "eosapisand/001/001010/0011002"
+        },
+        {
+            "pmsRoomNumber": "001",
+            "location": "eosapisand/001/001000/001001"
+        },
+        {
+            "pmsRoomNumber": "002",
+            "location": "eosapisand/001/001000/001002"
+        },
+        {
+            "pmsRoomNumber": "1101",
+            "location": "eosapisand/001/001011/0011101"
+        }
+    ]
+}
