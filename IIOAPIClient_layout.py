@@ -58,25 +58,24 @@ def get_unit_types(property_data):
         }
         position_id = [] # Calculating EOS count
         for eos in unit_type["positions"]:
-            print(f"UnitType {unit_type['unitTypeId']} -> Positions {eos['positionId']}")
-            position_id.append(eos['positionId'])            
-            print(f"Position IDs list: {position_id}")
-        if "768" in position_id:
-            print(f"768 found in Position IDs for Unit Type '{unit_type['name']}'EOS count is: 3")
-            print(f"EOS count is: 3")
-            temp_entry_1["EOS_Count"] = "3"
+            position_id.append(eos['positionId'])     
+        if "1792" in position_id:
+            temp_entry_1["EOS_Count"] = 7
+        elif "1536" in position_id:
+            temp_entry_1["EOS_Count"] = 6
+        elif "1280" in position_id:
+            temp_entry_1["EOS_Count"] = 5
+        elif "1024" in position_id:
+            temp_entry_1["EOS_Count"] = 4
+        elif "768" in position_id:
+            temp_entry_1["EOS_Count"] = 3
         elif "512" in position_id:
-            print(f"512 found in Position IDs for Unit Type '{unit_type['name']}'EOS count is: 2")
-            print(f"EOS count is: 2")
-            temp_entry_1["EOS_Count"] = "2"
+            temp_entry_1["EOS_Count"] = 2
         elif "256" in position_id:
-            print(f"256 found in Position IDs for Unit Type '{unit_type['name']}' EOS count is: 1")
-            temp_entry_1["EOS_Count"] = "1"
+            temp_entry_1["EOS_Count"] = 1
 
-        print(f"Position IDs list after loop: {position_id}")
         unit_types.append(temp_entry_1)
 
-    print(unit_types)
     return unit_types
 
 def get_pms_room_mapping_01(unit_location_details, propertyId):    # Room Mapping json used in mews, or Marriott PMS, PMS over API
@@ -183,7 +182,7 @@ def main():
         # print(item)
         # logger.info(f"Wrote unit details for Unit_No: {item['Unit_No']} into output csv file.")
         # logger.info(f"Unit location are: {unit_location_details}")
-        # logger.info(f"{item}\n")
+        logger.info(f"{item}\n")
     logger.info(f"Writing results in CSV file: {out_unit_locations_csv} \n") 
 
     # else: 
